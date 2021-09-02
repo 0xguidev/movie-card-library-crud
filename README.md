@@ -1,1 +1,1 @@
-Projeto crud feito em react
+Projeto de Ciclo de Vida de Componentes e React Router
